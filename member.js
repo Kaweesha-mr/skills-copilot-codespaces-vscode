@@ -14,4 +14,4 @@ function skillsMember()
     console.log(member.name);
     console.log(member.address.city);
     console.log(member.skills[0]);
-}git add member.js
+}
