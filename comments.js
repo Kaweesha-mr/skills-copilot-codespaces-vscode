@@ -6,3 +6,4 @@ app.get('/api/comments', function(req, res) {
 app.post('/api/comments', function(req, res) {
   var comment = {
     id: Date.now(),
+  };
